@@ -1,0 +1,5 @@
+admin|1234|Admin
+hr001|1234|HR
+payroff01|1234|Payroll Officer
+account001|1234|Accountant
+employee01|1234|Employee

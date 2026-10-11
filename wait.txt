@@ -1,0 +1,11 @@
+file<<employeeDetails[empcount - 1].name<<"|"
+        <<employeeDetails[empcount - 1].id<<"|"
+        <<employeeDetails[empcount - 1].position<<"|"
+        <<employeeDetails[empcount - 1].status<<"|"
+        <<employeeDetails[empcount - 1].dep<<"|"
+        <<employeeDetails[empcount - 1].hourlyRate<<endl;
+
+    file.close();
+
+
+
